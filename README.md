@@ -8,8 +8,7 @@ Der Bot kombiniert:
 - **Sentence-Transformers** für semantische Embeddings
 - **GPT-2-medium** zur Generierung kurzer, konservativer Antworten
 
-Das Ziel ist, Fragen zu Finanzkennzahlen wie **Revenue, Profit oder Growth** von Unternehmen präzise zu beantworten. Ideal für Bewerbungen oder Portfolio-Demos im Bereich NLP/KI.
-
+Das Ziel ist, Fragen zu Finanzkennzahlen wie **Revenue, Profit oder Growth** von Unternehmen präzise zu beantworten. 
 ---
 
 ## Features
