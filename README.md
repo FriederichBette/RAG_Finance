@@ -35,9 +35,9 @@ cd finance-rag-gpt2
 2.) Virtuelle Umgebung (optional) erstellen
 
 python -m venv env
-# Linux/Mac:
+Linux/Mac:
 source env/bin/activate
-# Windows:
+Windows:
 env\Scripts\activate
 
 
