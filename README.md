@@ -7,6 +7,8 @@ Der Bot kombiniert:
 - **FAISS** für schnelles Retrieval relevanter Dokumente
 - **Sentence-Transformers** für semantische Embeddings
 - **GPT-2-medium** zur Generierung kurzer, konservativer Antworten
+
+
 Das Ziel ist, Fragen zu Finanzkennzahlen wie Revenue, Profit oder Growth von Unternehmen präzise zu beantworten. 
 ---
 
