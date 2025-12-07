@@ -57,9 +57,3 @@ FinanceBot says: DeltaSolutions: Revenue $400M
 Ask a finance question (or type 'exit'): Which company has the fastest growth?
 FinanceBot says: BetaInc: Growth 12.0%
 
-Struktur
-finance-rag-gpt2/
-│
-├── finance_rag_gpt2.py       # Hauptskript
-├── requirements.txt          # Python-Abhängigkeiten
-├── README.md                 # Projektbeschreibung
